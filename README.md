@@ -20,7 +20,7 @@
 <BR>
 
 <div align="center" style="display: inline_block">
-  <a href="[https://github.com/rafaballerini](https://github.com/Gabriel-Trindade)">
+  <a href="https://github.com/Gabriel-Trindade">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Trindade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Trindade&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -31,14 +31,11 @@
   <img align="center" alt="Gab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gab-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gab-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Gab-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="Gab-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Gab-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <img align="center" alt="Gab-PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" alt="Gab-SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Gab-SASS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   
 </div>
-        <div style="display: inline_block"><br>
-        <img align="right" alt="Gab-pic" height="150" width="250" style="border-radius:50px;" src="https://media.discordapp.net/attachments/825893320429273108/1022671714745864212/gif-1.gif?width=448&height=268">
-        <div> 
 
 
   <a href = "mailto:gabriel18.trindade@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
