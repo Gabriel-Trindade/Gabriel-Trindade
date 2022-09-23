@@ -17,7 +17,6 @@
 - 📚 Graduated at Web Developing in ETEC Aristóteles Ferreira and in the sophomore year of system analisys and development at UNIP
 - 🚀 I don't belive in the impossible and i want to impact the life of the whole people around me.
 <br>
-<BR>
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/Gabriel-Trindade">
@@ -36,8 +35,8 @@
   <img align="center" alt="Gab-SASS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   
 </div>
-
-
+<br>
+<div>
   <a href = "mailto:gabriel18.trindade@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-trindadev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
