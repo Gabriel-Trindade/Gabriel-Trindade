@@ -19,7 +19,7 @@
 <br>
 <BR>
 
-<div align="center">
+<div align="center" style="display: inline_block">
   <a href="[https://github.com/rafaballerini](https://github.com/Gabriel-Trindade)">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Trindade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Trindade&layout=compact&langs_count=7&theme=dracula"/>
@@ -37,7 +37,7 @@
   
 </div>
         <div style="display: inline_block"><br>
-        <img align="right" alt="Gab-pic" height="150" width="200" style="border-radius:50px;" src="https://media.discordapp.net/attachments/825893320429273108/1022671714745864212/gif-1.gif?width=448&height=268">
+        <img align="right" alt="Gab-pic" height="150" width="250" style="border-radius:50px;" src="https://media.discordapp.net/attachments/825893320429273108/1022671714745864212/gif-1.gif?width=448&height=268">
         <div> 
 
 
