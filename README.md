@@ -14,17 +14,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Trindade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Trindade&layout=compact&langs_count=7&theme=radical"/>
 </div>
-        
-<div style="display: inline-block"><br>
-  <img align="center" alt="Gab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
+  
 <br>
-
 <div>
   <a href="https://www.linkedin.com/in/gabriel-trindadev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-  ![Snake animation](https://github.com/Gabriel-Trindade/Gabriel-Trindade/blob/output/github-contribution-grid-snake.svg)
-
 </div>
         
 <div style="display: inline-block"><br>
