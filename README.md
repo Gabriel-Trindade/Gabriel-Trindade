@@ -1,11 +1,11 @@
 ## Olá, sou Gabriel Trindade! 👋👋
 
 ## pt-br
-- 🔭 Atualmente trabalho como desenvolvedor frontend júnior!
+- 🔭 Atualmente trabalho como desenvolvedor fullstack!
 - 📚 Formado em Análise e Desenvolvimento de Sistemas
 
 ## english
-- 🔭 Working as junior frontend developer
+- 🔭 Working as junior fullstack developer!
 - 📚 Graduated in analisis and systems development
 <br>
 
