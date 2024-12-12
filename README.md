@@ -5,7 +5,7 @@
 - 📚 Formado em Análise e Desenvolvimento de Sistemas
 
 ## english
-- 🔭 Working as junior fullstack developer!
+- 🔭 Working as fullstack developer!
 - 📚 Graduated in analisis and systems development
 <br>
 
