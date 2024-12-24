@@ -11,8 +11,8 @@
 
 <div align="center" style="display: inline-block">
   <a href="https://github.com/Gabriel-Trindade">
-  ![Gabriel-Trindade's Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Trindade&theme=dark&show_icons=true&hide_border=false&count_private=true)
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Trindade&layout=compact&langs_count=7&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Trindade&layout=compact&langs_count=7&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Trindade&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
 <br>
