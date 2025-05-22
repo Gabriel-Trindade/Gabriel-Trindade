@@ -11,7 +11,7 @@
 
 <div align="center" style="display: inline-block">
   <a href="https://github.com/Gabriel-Trindade">
-    <img height="180em" src="https://github-readme-stats-pi-eight-87.vercel.app/api?username=Gabriel-Trindade&theme=dark&show_icons=true&hide_border=false&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-pi-eight-87.vercel.app/api?username=Gabriel-Trindade&theme=dark&show_icons=true&hide_border=false&count_private=true&show_icons=true"/>
     <img height="180em" src="https://github-readme-stats-pi-eight-87.vercel.app/api/top-langs/?username=Gabriel-Trindade&layout=compact&langs_count=7&theme=dark"/>
     <img height="180em" serc="https://github-readme-stats-pi-eight-87.vercel.app/api?username=Gabriel-Trindade&theme=dark"/>
 </div>
