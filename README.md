@@ -20,8 +20,6 @@ Desenvolvedor full stack com foco em **Laravel**, **PHP** e **CakePHP**, atuando
 
 - 🔭 Atualmente trabalhando como **Desenvolvedor Full Stack** na DC Tecnologia
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas** pela UNIP
-- 📚 Pós-graduando em **Engenharia de Software** pela PUC Minas
-- 🌱 Aprendendo **Vue.js**
 - 🌍 Idiomas: Português (Nativo) · English (Fluent C1)
 
 ---
